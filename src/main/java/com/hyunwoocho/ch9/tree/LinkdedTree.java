@@ -4,6 +4,6 @@ public class LinkdedTree {
 
     private TreeNode root;
 
-    
+
 
 }
