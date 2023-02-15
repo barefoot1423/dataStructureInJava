@@ -1,4 +1,4 @@
-package com.hyunwoocho.ch1;
+package com.hyunwoocho.korean.ch1;
 
 public class Chapter1 {
 

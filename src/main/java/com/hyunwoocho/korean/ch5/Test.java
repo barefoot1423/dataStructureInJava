@@ -1,4 +1,4 @@
-package com.hyunwoocho.ch5;
+package com.hyunwoocho.korean.ch5;
 
 import java.math.BigDecimal;
 

@@ -1,4 +1,4 @@
-package com.hyunwoocho.ch6.singlyLinkedList;
+package com.hyunwoocho.korean.ch6.singlyLinkedList;
 
 public class LinkedList {
 

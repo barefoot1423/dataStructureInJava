@@ -1,4 +1,4 @@
-package com.hyunwoocho.ch9.tree;
+package com.hyunwoocho.korean.ch9.tree;
 
 public class TreeNode {
     char data;
