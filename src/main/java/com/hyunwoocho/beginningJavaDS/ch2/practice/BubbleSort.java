@@ -17,7 +17,6 @@ public class BubbleSort {
         }
 
         System.out.println(Arrays.toString(numbers));
-
         return numbers;
     }
 
