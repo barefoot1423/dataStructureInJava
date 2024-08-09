@@ -14,6 +14,7 @@ public class BubbleSort {
                     numbers[j] = temp;
                 }
             }
+
         }
 
         System.out.println(Arrays.toString(numbers));
